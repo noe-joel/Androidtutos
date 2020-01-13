@@ -6,6 +6,7 @@
 - [Les extensions de fonctions et des propriétés dans kotlin](https://androidtutos.com/extension-des-fonctions-et-des-proprietes-dans-kotlin/)
 - [Les déclarations déstructurées dans kotlin](https://androidtutos.com/les-declarations-destructurees/)
 - [L'expression this dans kotlin](https://androidtutos.com/expression-this-dans-kotlin/)
+- [L'égalité dans kotlin](https://androidtutos.com/equality-in-kotlin/)
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
 ## Material Design
