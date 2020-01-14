@@ -7,8 +7,12 @@
 - [Les déclarations déstructurées dans kotlin](https://androidtutos.com/les-declarations-destructurees/)
 - [L'expression this dans kotlin](https://androidtutos.com/expression-this-dans-kotlin/)
 - [L'égalité dans kotlin](https://androidtutos.com/equality-in-kotlin/)
+- [La surcharge des opérateur dans kotlin](https://androidtutos.com/la-surcharge-des-operateurs-dans-kotlin/)
+- [La délegation des propriété dans kotlin](https://androidtutos.com/la-delegation-des-proprietes/)
+- [La délégation dans kotlin](https://androidtutos.com/la-delegation-dans-kotlin/)
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
 ## Material Design
 - [Le material design 2 sur android:les composants material](https://androidtutos.com/le-material-design-2-sur-android/)
 - [Couleur typographie et forme dans le material design 2](https://androidtutos.com/couleur-typographie-et-style-de-forme-des-composants-material-dans-un-theme-material/)
+- [Le composant MaterialButton sur Android](https://androidtutos.com/material-button/)
