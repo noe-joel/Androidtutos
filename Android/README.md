@@ -13,6 +13,9 @@
 - [Les objets et singleton dans kotlin](https://androidtutos.com/les-objets-et-singleton-dans-kotlin/)
 - [Les mots clés lateinit et lazy dans kotlin](https://androidtutos.com/les-mots-cles-lateinit-et-lazy-dans-kotlin/)
 - [Les classes internes dans kotlin](https://androidtutos.com/les-classes-internes-dans-kotlin/)
+- [Les énumérations dans kotlin](https://androidtutos.com/les-enumerations-dans-kotlin/)
+- [Les objets compagnons dans kotlin](https://androidtutos.com/les-objets-compagnons-dans-kotlin/)
+- [Les classes scellées dans kotlin](https://androidtutos.com/les-classes-scellees-ou-sealed-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
