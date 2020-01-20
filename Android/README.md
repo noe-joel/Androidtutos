@@ -16,6 +16,8 @@
 - [Les énumérations dans kotlin](https://androidtutos.com/les-enumerations-dans-kotlin/)
 - [Les objets compagnons dans kotlin](https://androidtutos.com/les-objets-compagnons-dans-kotlin/)
 - [Les classes scellées dans kotlin](https://androidtutos.com/les-classes-scellees-ou-sealed-dans-kotlin/)
+- [Les interfaces dans kotlin](https://androidtutos.com/les-interfaces-dans-kotlin/)
+- [Les classes abstraites dans kotlin](https://androidtutos.com/les-classes-abstraites/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
@@ -24,3 +26,4 @@
 - [Couleur typographie et forme dans le material design 2](https://androidtutos.com/couleur-typographie-et-style-de-forme-des-composants-material-dans-un-theme-material/)
 - [Le composant MaterialButton sur Android](https://androidtutos.com/material-button/)
 - [La classe MaterialAlertDialogBuilder](https://androidtutos.com/le-materialalertdialogbuilder-sur-android/)
+- [Le snackbar sur Android](https://androidtutos.com/le-snackbar-sur-android/)
