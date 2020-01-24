@@ -18,6 +18,8 @@
 - [Les classes scellées dans kotlin](https://androidtutos.com/les-classes-scellees-ou-sealed-dans-kotlin/)
 - [Les interfaces dans kotlin](https://androidtutos.com/les-interfaces-dans-kotlin/)
 - [Les classes abstraites dans kotlin](https://androidtutos.com/les-classes-abstraites/)
+- [L'héritage dans kotlin](https://androidtutos.com/heritage-dans-kotlin/)
+- [Les propriétés, les getters et setters dans kotlin](https://androidtutos.com/les-proprietes-les-getters-et-les-setters-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
@@ -27,3 +29,5 @@
 - [Le composant MaterialButton sur Android](https://androidtutos.com/material-button/)
 - [La classe MaterialAlertDialogBuilder](https://androidtutos.com/le-materialalertdialogbuilder-sur-android/)
 - [Le snackbar sur Android](https://androidtutos.com/le-snackbar-sur-android/)
+- [Le FloatingActionButton sur Android](https://androidtutos.com/le-floating-action-button-sur-android/)
+- [Le material design 2 et le BottomAppBar sur Android](https://androidtutos.com/le-bottom-app-bar-sur-android/)
