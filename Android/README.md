@@ -20,6 +20,8 @@
 - [Les classes abstraites dans kotlin](https://androidtutos.com/les-classes-abstraites/)
 - [L'héritage dans kotlin](https://androidtutos.com/heritage-dans-kotlin/)
 - [Les propriétés, les getters et setters dans kotlin](https://androidtutos.com/les-proprietes-les-getters-et-les-setters-dans-kotlin/)
+- [Les modificateurs d'accès dans kotlin](https://androidtutos.com/les-modificateurs-d-acces-dans-kotlin/)
+- [Les classes et objet dans kotlin](https://androidtutos.com/les-classes-et-objet-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
@@ -31,3 +33,4 @@
 - [Le snackbar sur Android](https://androidtutos.com/le-snackbar-sur-android/)
 - [Le FloatingActionButton sur Android](https://androidtutos.com/le-floating-action-button-sur-android/)
 - [Le material design 2 et le BottomAppBar sur Android](https://androidtutos.com/le-bottom-app-bar-sur-android/)
+- [Intégrer une bottom navigation view dans votre application android](https://androidtutos.com/bottom-navigation-view/)
