@@ -34,4 +34,4 @@
 - [Le FloatingActionButton sur Android](https://androidtutos.com/le-floating-action-button-sur-android/)
 - [Le material design 2 et le BottomAppBar sur Android](https://androidtutos.com/le-bottom-app-bar-sur-android/)
 - [Intégrer une bottom navigation view dans votre application android](https://androidtutos.com/bottom-navigation-view/)
-- [La composant MaterialCheckBox sur Android](https://androidtutos.com/materialcheckbox/)
+- [Le composant MaterialCheckBox sur Android](https://androidtutos.com/materialcheckbox/)
