@@ -22,6 +22,8 @@
 - [Les propriétés, les getters et setters dans kotlin](https://androidtutos.com/les-proprietes-les-getters-et-les-setters-dans-kotlin/)
 - [Les modificateurs d'accès dans kotlin](https://androidtutos.com/les-modificateurs-d-acces-dans-kotlin/)
 - [Les classes et objet dans kotlin](https://androidtutos.com/les-classes-et-objet-dans-kotlin/)
+- [Les arguments variables dans kotlin](https://androidtutos.com/les-arguments-variables-avec-vararg/)
+- [Les arguments par défaut et les arguments nommés dans kotlin](https://androidtutos.com/les-arguments-par-defaut-et-les-arguments-nommes-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
