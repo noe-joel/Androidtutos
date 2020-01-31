@@ -39,3 +39,4 @@
 - [Intégrer une bottom navigation view dans votre application android](https://androidtutos.com/bottom-navigation-view/)
 - [Le composant MaterialCheckBox sur Android](https://androidtutos.com/materialcheckbox/)
 - [Intégrer une persistent bottom sheet sur android](https://androidtutos.com/persistent-bottom-sheet/)
+- [Intégrer une modal bottom sheet sur android](https://androidtutos.com/modal-bottom-sheet/)
