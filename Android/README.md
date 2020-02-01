@@ -25,6 +25,7 @@
 - [Les arguments variables dans kotlin](https://androidtutos.com/les-arguments-variables-avec-vararg/)
 - [Les arguments par défaut et les arguments nommés dans kotlin](https://androidtutos.com/les-arguments-par-defaut-et-les-arguments-nommes-dans-kotlin/)
 - [Les bases des fonctions dans kotlin](https://androidtutos.com/les-bases-des-fonctions-dans-kotlin/)
+- [Les intervalles dans kotlin](https://androidtutos.com/les-intervalles-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
