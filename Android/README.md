@@ -26,6 +26,7 @@
 - [Les arguments par défaut et les arguments nommés dans kotlin](https://androidtutos.com/les-arguments-par-defaut-et-les-arguments-nommes-dans-kotlin/)
 - [Les bases des fonctions dans kotlin](https://androidtutos.com/les-bases-des-fonctions-dans-kotlin/)
 - [Les intervalles dans kotlin](https://androidtutos.com/les-intervalles-dans-kotlin/)
+- [Comparaison des chaines de caractère dans kotlin](https://androidtutos.com/comparaison-des-chaines-de-caractere-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
@@ -41,3 +42,4 @@
 - [Le composant MaterialCheckBox sur Android](https://androidtutos.com/materialcheckbox/)
 - [Intégrer une persistent bottom sheet sur android](https://androidtutos.com/persistent-bottom-sheet/)
 - [Intégrer une modal bottom sheet sur android](https://androidtutos.com/modal-bottom-sheet/)
+- [Le widget Chip](https://androidtutos.com/widget-chip/)
