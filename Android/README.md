@@ -27,6 +27,7 @@
 - [Les bases des fonctions dans kotlin](https://androidtutos.com/les-bases-des-fonctions-dans-kotlin/)
 - [Les intervalles dans kotlin](https://androidtutos.com/les-intervalles-dans-kotlin/)
 - [Comparaison des chaines de caractère dans kotlin](https://androidtutos.com/comparaison-des-chaines-de-caractere-dans-kotlin/)
+- [La boucle for dans kotlin](https://androidtutos.com/la-boucle-for-dans-kotlin/)
 
 ## Jetpack
 - [AndroidX](https://androidtutos.com/androidx/)
