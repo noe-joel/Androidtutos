@@ -45,3 +45,4 @@
 - [Intégrer une modal bottom sheet sur android](https://androidtutos.com/modal-bottom-sheet/)
 - [Le widget Chip](https://androidtutos.com/widget-chip/)
 - [Le widget material text view sur android](https://androidtutos.com/material-text-view/)
+- [Intégrer une toolbar Android](https://androidtutos.com/toolbar-android/)
